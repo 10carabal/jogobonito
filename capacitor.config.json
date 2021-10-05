@@ -1,0 +1,6 @@
+{
+  "appId": "jogonito.dev.app",
+  "appName": "jogobonito",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
