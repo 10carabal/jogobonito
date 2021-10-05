@@ -1,0 +1,6 @@
+{
+	"appId": "jogobonito.devlop.app",
+	"appName": "jogobonito",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}

@@ -1,9 +1,9 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'jogobonito.devlop.app',
   appName: 'jogobonito',
-  webDir: 'dist',
+  webDir: 'public',
   bundledWebRuntime: false
 };
 

@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package jogobonito.devlop.app;
 
 import com.getcapacitor.BridgeActivity;
 
